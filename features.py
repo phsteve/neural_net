@@ -8,7 +8,7 @@ spanish_training = dq_spanish.readlines(200)
 #print english_training
 #len_spanish = 0
 #len_english = 0
-
+#
 
 #freq_dist_english = {}
 #freq_dist_spanish = {}
